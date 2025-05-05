@@ -4,15 +4,13 @@
 - 💼 Atuando em: Squads MCX - Faturamento e Integrações do Microvix
 - 🛠 Ferramentas & Tech Stack: <div style="display: inline_block">
     <img height="30em" src="https://img.shields.io/badge/Robot%20Framework-000?logo=robotframework&logoColor=fff&style=for-the-badge" alt="Robot Framework Badge">
-    <img height="55em" src="https://skillicons.dev/icons?i=selenium,github,postman,vscode,mysql" >
-    
+    <img height="55em" src="https://skillicons.dev/icons?i=selenium,github,postman,vscode,mysql" >    
 </div>
 <div>
     <a href="https://github.com/JoaoLimaLinx">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLimaLinx&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLimaLinx&layout=compact&langs_count=16&theme=shades-of-purple" />
 </div>
-
+        
  📌 Foco Atual:
 - ✔ Automação de testes dos casos de teste do time FatInt
 - ✔ Integração contínua e entrega contínua (CI/CD)
