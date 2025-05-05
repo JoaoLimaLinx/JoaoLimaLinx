@@ -16,9 +16,8 @@
 - ✔ Integração contínua e entrega contínua (CI/CD)
 - ✔ Garantia de qualidade em processos críticos
 
-📫 Contato: <div style="display: inline_block">
-<img align="left" height="45" src="https://go-skill-icons.vercel.app/api/icons?i=outlook&titles=true" alt="Outlook">  
+📫 Contato: <br>
+<img align="left" height="38" src="https://go-skill-icons.vercel.app/api/icons?i=outlook&titles=true" alt="Outlook">  
 [joao.socorro@linx.com.br](mailto:joao.socorro@linx.com.br) <br>
-<img align="left" height="45" src="https://go-skill-icons.vercel.app/api/icons?i=teams&titles=true" alt="Outlook">  
+<img align="left" height="38" src="https://go-skill-icons.vercel.app/api/icons?i=teams&titles=true" alt="Outlook">  
 `João Paulo Socorro Lima (joao.socorro)`  
-</div>
